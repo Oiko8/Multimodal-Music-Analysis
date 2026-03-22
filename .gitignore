@@ -1,0 +1,5 @@
+# ignore data files
+data/*
+
+# ignore example files
+assignment_example/*
