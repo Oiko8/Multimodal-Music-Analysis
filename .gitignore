@@ -3,3 +3,6 @@ data/*
 
 # ignore example files
 assignment_example/*
+
+# ignore env
+.vscode
