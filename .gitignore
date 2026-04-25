@@ -6,3 +6,9 @@ assignment_example/*
 
 # ignore env
 .vscode
+
+# html files
+*.html
+
+# submissions
+*.zip
